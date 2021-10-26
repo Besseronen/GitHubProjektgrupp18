@@ -6,13 +6,21 @@ using System.Threading.Tasks;
 
 namespace Nya_projektet_Grupp_18_C_Projekt.Models
 {
-       public class Podcast : Feed
+    public class Podcast : Feed
+    {
+        public int Avsnitt { get; set; }
+        public string Namn { get; set; }
+        public string UppdateringsIntervall { get; set; }
+        public string Kategori { get; set; }
+        public List<Avsnitt> PodcastAvsnitt { get; set; }
+        public Podcast(string url, int Avsnitt, string namn, string uppdateringsIntervall, string kategori, List<Avsnitt> PodcastAvsnitt) :
+            base(url)
         {
-            public Podcast(string url, string uppdateringsIntervall, string kategori) :
-                base()
-            {
-                
-            }
-
+            Namn = namn;
+            UppdateringsIntervall = uppdateringsIntervall;
+            Kategori = kategori;
+            
         }
+
+     }
 }

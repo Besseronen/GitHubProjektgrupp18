@@ -8,17 +8,19 @@ using System.Xml.Serialization;
 namespace Nya_projektet_Grupp_18_C_Projekt.Models
 {
     [XmlInclude(typeof(Podcast))]
-    public class Feed
+    public abstract class Feed
     {
-        public Feed(Kategori kategori, int uppdateringsIntervall)
+        public string Url { get; set; }
+        public string Namn { get; set; }
+        public List<Avsnitt> PodcastAvsnitt { get; set; }
+        public string UppdateringsIntervall { get; set; }
+        public string Kategori { get; set; }
+        public Feed(string url)
         {
-            UppdateringsIntervall = uppdateringsIntervall;
+            Url = url;
         }
 
-        public string Namn { get; set; }
-        public int UppdateringsIntervall { get; set; }
-        public int AntalAvsnitt { get; set; }
-        public string Kategori { get; set; }
+
 
         public virtual void a()
         {

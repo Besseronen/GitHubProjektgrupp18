@@ -11,7 +11,6 @@ namespace BusinessLayer.Controllers
     {
         IRepository<Podcast> podcastRepository;
         
-
         public FeedController()
         {
             podcastRepository = new PodcastRepository();
@@ -20,7 +19,7 @@ namespace BusinessLayer.Controllers
         public void CreatePodcast(string url, string uppdateringsIntervall, string kategori)
         {
             Podcast nyPodd = null;
-            nyPodd = new Podcast;
+            
             podcastRepository.Create(nyPodd);
         }
 
