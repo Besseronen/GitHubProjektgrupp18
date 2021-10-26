@@ -1,0 +1,6 @@
+C:\C#\Nya projektet Grupp 18 C-Projekt\Models\bin\Debug\Models.dll
+C:\C#\Nya projektet Grupp 18 C-Projekt\Models\bin\Debug\Models.pdb
+C:\C#\Nya projektet Grupp 18 C-Projekt\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\C#\Nya projektet Grupp 18 C-Projekt\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\C#\Nya projektet Grupp 18 C-Projekt\Models\obj\Debug\Models.dll
+C:\C#\Nya projektet Grupp 18 C-Projekt\Models\obj\Debug\Models.pdb
