@@ -3,8 +3,6 @@ using System.Collections.Generic;
 
 namespace DataAccessLayer.Exceptions
 {
-    class SerializerExceptions
-    {
 
         public class SerializerException : Exception
         {
@@ -24,4 +22,4 @@ namespace DataAccessLayer.Exceptions
             }
         }
     }
-}
+

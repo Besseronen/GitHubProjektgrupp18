@@ -17,10 +17,10 @@ namespace BusinessLayer.Controllers
             podcastRepository = new PodcastRepository();
         }
 
-        public void CreatePodcast(Kategori kategori, int uppdateringsIntervall)
+        public void CreatePodcast(string url, string uppdateringsIntervall, string kategori)
         {
             Podcast nyPodd = null;
-
+            nyPodd = new Podcast;
             podcastRepository.Create(nyPodd);
         }
 

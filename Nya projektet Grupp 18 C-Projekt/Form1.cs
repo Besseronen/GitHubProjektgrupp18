@@ -15,7 +15,7 @@ namespace Nya_projektet_Grupp_18_C_Projekt
 
         private void btnNyPodcast_Click(object sender, EventArgs e)
         {
-            feedController.CreatePodcast(cbKategori.Text, cbUppF.Text);
+            feedController.CreatePodcast(tbUrl.Text, cbKategori.Text, cbUppF.Text);
         }
     }
 }
