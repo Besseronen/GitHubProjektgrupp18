@@ -18,8 +18,6 @@ namespace Nya_projektet_Grupp_18_C_Projekt
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-
-
         }
     }
 }
