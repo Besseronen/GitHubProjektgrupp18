@@ -1,0 +1,4 @@
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\GitHubProjektgrupp18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\GitHubProjektgrupp18\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache

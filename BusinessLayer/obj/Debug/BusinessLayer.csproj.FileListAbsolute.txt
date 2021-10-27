@@ -1,0 +1,4 @@
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\GitHubProjektgrupp18\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\GitHubProjektgrupp18\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache

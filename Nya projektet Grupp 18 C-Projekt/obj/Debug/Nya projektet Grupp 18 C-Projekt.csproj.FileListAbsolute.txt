@@ -1,0 +1,6 @@
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Nya projektet Grupp 18 C-Projekt\obj\Debug\Nya projektet Grupp 18 C-Projekt.csproj.AssemblyReference.cache
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Nya projektet Grupp 18 C-Projekt\obj\Debug\Nya_projektet_Grupp_18_C_Projekt.Form1.resources
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Nya projektet Grupp 18 C-Projekt\obj\Debug\Nya projektet Grupp 18 C-Projekt.csproj.GenerateResource.cache
+C:\GitHubProjektgrupp18\Nya projektet Grupp 18 C-Projekt\obj\Debug\Nya projektet Grupp 18 C-Projekt.csproj.AssemblyReference.cache
+C:\GitHubProjektgrupp18\Nya projektet Grupp 18 C-Projekt\obj\Debug\Nya_projektet_Grupp_18_C_Projekt.Form1.resources
+C:\GitHubProjektgrupp18\Nya projektet Grupp 18 C-Projekt\obj\Debug\Nya projektet Grupp 18 C-Projekt.csproj.GenerateResource.cache

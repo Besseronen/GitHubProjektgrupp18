@@ -4,3 +4,13 @@ C:\C#\Nya projektet Grupp 18 C-Projekt\Models\obj\Debug\Models.csproj.AssemblyRe
 C:\C#\Nya projektet Grupp 18 C-Projekt\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\C#\Nya projektet Grupp 18 C-Projekt\Models\obj\Debug\Models.dll
 C:\C#\Nya projektet Grupp 18 C-Projekt\Models\obj\Debug\Models.pdb
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Models\bin\Debug\Models.dll
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Models\bin\Debug\Models.pdb
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Models\obj\Debug\Models.dll
+C:\Users\sagae\OneDrive\Skrivbord\GitHubProjektgrupp18\Models\obj\Debug\Models.pdb
+C:\GitHubProjektgrupp18\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\GitHubProjektgrupp18\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\GitHubProjektgrupp18\Models\obj\Debug\Models.dll
+C:\GitHubProjektgrupp18\Models\obj\Debug\Models.pdb
